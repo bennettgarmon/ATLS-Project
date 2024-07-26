@@ -1190,7 +1190,7 @@ var WCPFData = {"registerEntities":{"Project":{"id":"Project","class":"WooCommer
 				</div>
 				<div class="elementor-element elementor-element-2e89a0a elementor-widget elementor-widget-text-editor" data-id="2e89a0a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Join Ah Haa in the Launchpad for a seven-course menu that highlights Alaskan cuisine, including King Crab, Black Cod and Reindeer, complete with wine pairings. Chef Laura Cole has been defining Alaskan cuisine since the 2005 opening of 229 Parks Restaurant and Tavern in Denali National Park &amp; Preserve, which she ran for 18 years. A Top Chef Season 15 participant (which was filmed in Denver, Boulder, Aspen and Telluride).</p><p><a href="https://lauracole.eventive.org/welcome" target="_blank" rel="noopener">RESERVE YOUR SEATS</a></p>						</div>
+							<p>Join Ah Haa in the Launchpad for a seven-course menu that highlights Alaskan cuisine, including King Crab, Black Cod and Reindeer, complete with wine pairings. Chef Laura Cole has been defining Alaskan cuisine since the 2005 opening of 229 Parks Restaurant and Tavern in Denali National Park &amp; Preserve, which she ran for 18 years. A Top Chef Season 15 participant (which was filmed in Denver, Boulder, Aspen and Telluride).</p><p><a href="https://lauracole.eventive.org/welcome" target="_blank" rel="noopener" style = " color: #D96616">RESERVE YOUR SEATS</a></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1202,7 +1202,7 @@ var WCPFData = {"registerEntities":{"Project":{"id":"Project","class":"WooCommer
 				</div>
 				<div class="elementor-element elementor-element-ab8e1c1 elementor-widget elementor-widget-text-editor" data-id="ab8e1c1" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Join Ah Haa in the Launchpad for a soulful multi-course harvest dinner with award winning chef, author, restaurateur and Top Chef Season 15 competitor Tanya Holland! Known for her inventive take on modern soul food, as well as comfort classics, Tanya Holland is the founder of Oakland, California’s famed Brown Sugar Kitchen restaurant. She currently sits on the Board of Trustees for The James Beard Foundation and is the Chef/Chair of its Awards Committee.</p><p><a href="https://tanyaholland.eventive.org/welcome" target="_blank" rel="noopener">RESERVE YOUR SEATS</a></p>						</div>
+							<p>Join Ah Haa in the Launchpad for a soulful multi-course harvest dinner with award winning chef, author, restaurateur and Top Chef Season 15 competitor Tanya Holland! Known for her inventive take on modern soul food, as well as comfort classics, Tanya Holland is the founder of Oakland, California’s famed Brown Sugar Kitchen restaurant. She currently sits on the Board of Trustees for The James Beard Foundation and is the Chef/Chair of its Awards Committee.</p><p><a href="https://tanyaholland.eventive.org/welcome" target="_blank" rel="noopener" style = " color: #D96616">RESERVE YOUR SEATS</a></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1271,7 +1271,7 @@ var WCPFData = {"registerEntities":{"Project":{"id":"Project","class":"WooCommer
 				</div>
 				<div class="elementor-element elementor-element-d0b8d12 elementor-widget elementor-widget-text-editor" data-id="d0b8d12" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<h1>Providing Arts Access &amp; Opportunity!</h1>						</div>
+							<h1 style = " color: #D96616">Providing Arts Access &amp; Opportunity!</h1>						</div>
 				</div>
 				<div class="elementor-element elementor-element-7af6fb3 elementor-widget elementor-widget-text-editor" data-id="7af6fb3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -1315,11 +1315,11 @@ var WCPFData = {"registerEntities":{"Project":{"id":"Project","class":"WooCommer
 				</div>
 				<div class="elementor-element elementor-element-203d12a elementor-widget elementor-widget-text-editor" data-id="203d12a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><a href="mailto:info@ahhaa.org">info@ahhaa.org</a></p>						</div>
+							<p><a href="mailto:info@ahhaa.org" style = " color: #D96616">info@ahhaa.org</a></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-91dfae9 elementor-widget elementor-widget-text-editor" data-id="91dfae9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><a href="tel:9707283886">970.728.3886</a></p>						</div>
+							<p><a href="tel:9707283886" style = " color: #D96616">970.728.3886</a></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-eef8566 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="eef8566" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1344,7 +1344,7 @@ var WCPFData = {"registerEntities":{"Project":{"id":"Project","class":"WooCommer
 				</div>
 				<div class="elementor-element elementor-element-f8ecd72 elementor-widget elementor-widget-text-editor" data-id="f8ecd72" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><a href="#">Get Directions </a></p>						</div>
+							<p><a href="#" style = " color: #D96616">Get Directions </a></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-f301917 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="f301917" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1415,7 +1415,7 @@ var WCPFData = {"registerEntities":{"Project":{"id":"Project","class":"WooCommer
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-c7be479 elementor-widget elementor-widget-text-editor" data-id="c7be479" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<h1>Art In Action at Ah Haa!</h1>						</div>
+							<h1 style = " color: #D96616">Art In Action at Ah Haa!</h1>						</div>
 				</div>
 				<div class="elementor-element elementor-element-917cb1a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="917cb1a" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1638,9 +1638,9 @@ Site Design: <a href="https://chair8design.com" target="_blank" rel="noopener">C
 </div>
 		</div><div class="widget qode_separator_widget " style="margin-bottom: 6px;"></div><div id="text-20" class="widget widget_text">			<div class="textwidget"><p><a href="https://www.dickblick.com/" target="_blank" rel="noopener">Buy Art Supplies</a></p>
 </div>
-		</div><div class="widget qode_separator_widget " style="margin-bottom: 6px;"></div><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='https://www.facebook.com/AhHaaTelluride' target='_blank' aria-label='Facebook'><i class="qode_icon_font_awesome fa fa-facebook  simple_social" style="margin: 0 0 0 5px;font-size: 15pxpx; color: #ffffff;" ></i></a></span><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='https://www.instagram.com/ahhaaschooltelluride/' target='_blank'><i class="qode_icon_font_awesome fa fa-instagram  simple_social" style="margin: 0 5px 0 10px;font-size: 15pxpx; color: #ffffff;" ></i></a></span><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='https://www.youtube.com/user/ahhaaschool1' target='_blank'><i class="qode_icon_font_awesome fa fa-youtube  simple_social" style="margin: 0 5px 0 5px;font-size: 15pxpx; color: #ffffff;" ></i></a></span><div class="widget qode_separator_widget " style="margin-bottom: 14px;"></div><div id="woocommerce_product_search-2" class="widget woocommerce widget_product_search"><h5>Search All Classes</h5><form role="search" method="get" id="searchform" action="https://ahhaa.org/">
+		</div><div class="widget qode_separator_widget " style="margin-bottom: 6px;"></div><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='https://www.facebook.com/AhHaaTelluride' target='_blank' aria-label='Facebook'><i class="qode_icon_font_awesome fa fa-facebook  simple_social" style="margin: 0 0 0 5px;font-size: 15pxpx; color: #ffffff;" ></i></a></span><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='https://www.instagram.com/ahhaaschooltelluride/' target='_blank' aria-label='Instagram'><i class="qode_icon_font_awesome fa fa-instagram  simple_social" style="margin: 0 5px 0 10px;font-size: 15pxpx; color: #ffffff;" ></i></a></span><span class='q_social_icon_holder normal_social' ><a itemprop='url' href='https://www.youtube.com/user/ahhaaschool1' target='_blank' aria-label='YoutTube'><i class="qode_icon_font_awesome fa fa-youtube  simple_social" style="margin: 0 5px 0 5px;font-size: 15pxpx; color: #ffffff;" ></i></a></span><div class="widget qode_separator_widget " style="margin-bottom: 14px;"></div><div id="woocommerce_product_search-2" class="widget woocommerce widget_product_search"><h5>Search All Classes</h5><form role="search" method="get" id="searchform" action="https://ahhaa.org/">
 			<div>
-				<label class="screen-reader-text" for="s">Search for:</label>
+				<label class="screen-reader-text" for="Search Products">Search for:</label>
 				<input type="text" value="" name="s" id="s" placeholder="Search Products" />
 				<input type="submit" id="searchsubmit" value="&#xf002" />
 				<input type="hidden" name="post_type" value="product" />
