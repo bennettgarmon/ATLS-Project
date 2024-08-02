@@ -507,27 +507,6 @@ body > div.wrapper > div > footer > div > div.footer_top_holder > div > div > di
 /*password-protected page*/
 .post-password-form input[type=password] {width: 40% !important; border: 1px solid !important;
 }
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-    const menuItems = document.querySelectorAll('.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu');
-
-    menuItems.forEach(item => {
-        item.addEventListener('focusin', function () {
-            const subMenu = this.querySelector('.second');
-            if (subMenu) {
-                subMenu.style.display = 'block';
-            }
-        });
-
-        item.addEventListener('focusout', function () {
-            const subMenu = this.querySelector('.second');
-            if (subMenu) {
-                subMenu.style.display = 'none';
-            }
-        });
-    });
-});
-</script>
 </style>
 <link rel='stylesheet' id='js_composer_front-css' href='https://ahhaa.org/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.5' type='text/css' media='all' />
 <link rel='stylesheet' id='bridge-style-handle-google-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CHeebo%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic%7CRaleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100italic%2C300italic%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;ver=1.0.0' type='text/css' media='all' />
@@ -1928,5 +1907,26 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 
 		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
 	</script>
+	<script>
+document.addEventListener('DOMContentLoaded', function () {
+    const menuItems = document.querySelectorAll('.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu');
+
+    menuItems.forEach(item => {
+        item.addEventListener('focusin', function () {
+            const subMenu = this.querySelector('.second');
+            if (subMenu) {
+                subMenu.style.display = 'block';
+            }
+        });
+
+        item.addEventListener('focusout', function () {
+            const subMenu = this.querySelector('.second');
+            if (subMenu) {
+                subMenu.style.display = 'none';
+            }
+        });
+    });
+});
+</script>
 </body>
 </html>
