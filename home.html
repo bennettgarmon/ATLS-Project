@@ -114,16 +114,9 @@ ul {
 /*home text over image hover color*/
 body > div.wrapper > div > div > div.paspartu_inner > div > div > div.full_width > div > div > section.parallax_section_holder.elementor-section.elementor-top-section.elementor-element.elementor-element-6f3cda0.elementor-section-full_width.parallax_section_holder.elementor-section-height-default.elementor-section-height-default.qode_elementor_container_no > div > div > div > div > div > h1 > a:hover {color: #e87062 !important;
 }
-a:focus, button:focus, input:focus, textarea:focus, select:focus {
+a:focus, button:focus, input:focus, select:focus {
     outline: 3px solid #FF0000;
     outline-offset: 2px;
-}
-.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu:focus-within > .second {
-    display: block; /* Ensure the dropdown is visible */
-}
-.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu:hover > .second,
-.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu:focus-within > .second {
-    display: block; /* Show on hover or focus */
 }
 
 /*all-classes page hide register hover button*/
@@ -1907,26 +1900,5 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 
 		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
 	</script>
-	<script>
-document.addEventListener('DOMContentLoaded', function () {
-    const menuItems = document.querySelectorAll('.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu');
-
-    menuItems.forEach(item => {
-        item.addEventListener('focusin', function () {
-            const subMenu = this.querySelector('.second');
-            if (subMenu) {
-                subMenu.style.display = 'block';
-            }
-        });
-
-        item.addEventListener('focusout', function () {
-            const subMenu = this.querySelector('.second');
-            if (subMenu) {
-                subMenu.style.display = 'none';
-            }
-        });
-    });
-});
-</script>
 </body>
 </html>
