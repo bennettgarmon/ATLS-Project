@@ -121,6 +121,10 @@ a:focus, button:focus, input:focus, textarea:focus, select:focus {
 .main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu:focus-within > .second {
     display: block; /* Ensure the dropdown is visible */
 }
+.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu:hover > .second,
+.main_menu.drop_down > ul > li.wide.wide_background.full_width_wide_menu:focus-within > .second {
+    display: block; /* Show on hover or focus */
+}
 
 /*all-classes page hide register hover button*/
 .woocommerce ul.products li.product .add-to-cart-button {display: none !important;
